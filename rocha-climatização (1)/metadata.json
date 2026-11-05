@@ -1,0 +1,6 @@
+{
+  "name": "Rocha Climatização",
+  "description": "Serviços profissionais de instalação, manutenção preventiva e corretiva, limpeza e higienização de ar-condicionado e climatização em São Paulo e região. Solicite seu orçamento rápido pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

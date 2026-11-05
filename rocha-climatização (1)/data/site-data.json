@@ -1,0 +1,586 @@
+{
+  "settings": {
+    "companyName": "Rocha Construção e Climatização",
+    "tradeName": "Rocha Climatização",
+    "slogan": "Conforto hoje, tranquilidade sempre!",
+    "subSlogan": "Cuidando do seu conforto, em cada detalhe.",
+    "phone1": "(11) 99968-5162",
+    "phone1Raw": "5511999685162",
+    "phone2": "(11) 97268-9185",
+    "phone2Raw": "5511972689185",
+    "email": "contato@rochaclimatizacao.com.br",
+    "address": "São Paulo - SP (Atendimento em toda a Grande São Paulo e Região)",
+    "city": "São Paulo",
+    "state": "SP",
+    "serviceArea": "São Paulo (Capital), Grande ABC, Osasco, Guarulhos, Barueri, Santana de Parnaíba e Região",
+    "businessHours": "Segunda a Sábado das 08h às 19h (Atendimento WhatsApp em tempo real)",
+    "instagramUrl": "https://instagram.com/rochaclimatizacao",
+    "facebookUrl": "https://facebook.com/rochaclimatizacao",
+    "logoUrl": "/assets/aistudio/ChatGPT_Image_23_de_ago._de_2026__00_11_45_3301b7e2.png",
+    "faviconUrl": "/favicon.png",
+    "heroBannerUrl": "/src/assets/images/hero_ac_split_living_1792728720151.jpg",
+    "specialistName": "Yngrid",
+    "specialistRole": "Técnica Especialista em Climatização",
+    "primaryColor": "#0a2540",
+    "secondaryColor": "#e5a93c",
+    "primaryWhatsapp": "phone1"
+  },
+  "texts": {
+    "heroTitle": "Não Espere o Calor Chegar!",
+    "heroSubtitle": "Conforto, qualidade e eficiência para sua residência ou empresa com a Rocha Climatização.",
+    "heroComplement": "Instalação com qualidade e segurança, equipe especializada e experiente, serviço rápido, limpo e eficiente. Solicite seu orçamento sem compromisso pelo WhatsApp.",
+    "heroCtaWhatsapp": "Solicitar Orçamento pelo WhatsApp",
+    "heroCtaServices": "Conhecer Nossos Serviços",
+    "servicesTitle": "Nossos Serviços Especializados",
+    "servicesSubtitle": "Soluções completas em climatização, elétrica e instalações prediais e residenciais.",
+    "pricesTitle": "Tabela de Serviços & Orçamentos",
+    "pricesSubtitle": "Transparência, qualidade garantida e valores acessíveis com facilidade de pagamento.",
+    "galleryTitle": "Galeria de Trabalhos Executados",
+    "gallerySubtitle": "Veja a qualidade do acabamento, limpeza e precisão técnica em obras e manutenções reais.",
+    "aboutTitle": "Sobre a Rocha Climatização",
+    "aboutStory": "A Rocha Construção e Climatização nasceu do compromisso de proporcionar conforto térmico e segurança para famílias e empresas de São Paulo e região metropolitana. Nossa equipe é liderada por profissionais experientes e capacitados nas principais fabricantes mundiais de ar-condicionado. Atuamos com ferramentas de ponta, bombas de vácuo digitais, manômetros calibrados e produtos biodegradáveis hospitalares para higienização.",
+    "aboutMission": "Garantir ambientes climatizados de maneira saudável, silenciosa e econômica, com instalações elétricas seguras e conformidade técnica rigorosa em cada detalhe.",
+    "aboutDifferentials": [
+      "Instalação com qualidade, garantia por escrito e segurança total",
+      "Equipe técnica treinada e liderada por especialistas (Técnica Yngrid)",
+      "Serviço rápido, limpo e sem sujeira no seu imóvel",
+      "Emissão de ART (Anotação de Responsabilidade Técnica) para condomínios",
+      "Atendimento ágil em São Paulo e toda região metropolitana",
+      "Orçamento transparente sem cobranças surpresas"
+    ],
+    "contactTitle": "Fale Conosco e Agende sua Visita",
+    "contactSubtitle": "Nossa equipe está pronta para tirar suas dúvidas e formular o melhor orçamento para você.",
+    "footerDisclaimer": "Rocha Construção e Climatização — CNPJ e registros profissionais em conformidade. Todos os direitos reservados.",
+    "whatsappFloatingText": "Fale Conosco no WhatsApp"
+  },
+  "sections": {
+    "hero": true,
+    "alertBanner": false,
+    "productsCarousel": true,
+    "services": true,
+    "prices": true,
+    "gallery": true,
+    "about": true,
+    "testimonials": true,
+    "differentials": true,
+    "faq": true,
+    "contact": true
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "slug": "instalacao-de-ar-condicionado",
+      "title": "Instalação de Ar-Condicionado",
+      "shortDescription": "Instalação profissional residencial e comercial para Split Hi-Wall, Inverter e Multi-Split.",
+      "fullDescription": "Instalação completa seguindo o manual das principais fabricantes (LG, Daikin, Fujitsu, Midea, Gree, Samsung, Elgin). Inclui furo técnico passa-tubo, fixação nivelada de evaporadora e condensadora, interligação de linha frigorígena em cobre isolado, circuito de dreno com caimento adequado e teste de estanqueidade com vácuo mecânico de alta precisão (abaixo de 500 micra).",
+      "category": "Climatização",
+      "imageUrl": "/src/assets/images/hero_ac_split_living_1792728720151.jpg",
+      "priceType": "a_partir",
+      "priceValue": 350,
+      "priceObservation": "Valor demonstrativo inicial sujeito à avaliação da metragem de tubulação e capacidade em BTUs.",
+      "includedFeatures": [
+        "Fixação de suporte e nivelamento a laser",
+        "Furo técnico e vedação de acabamento",
+        "Teste rigoroso de vácuo e teste de fuga de fluido",
+        "Start-up e teste de rendimento térmico",
+        "Garantia técnica do serviço executado"
+      ],
+      "visible": true,
+      "order": 1,
+      "whatsappCustomMsg": "Olá! Gostaria de um orçamento para Instalação de Ar-Condicionado no meu imóvel."
+    },
+    {
+      "id": "srv-2",
+      "slug": "limpeza-e-higienizacao",
+      "title": "Limpeza e Higienização Profissional",
+      "shortDescription": "Limpeza profunda contra ácaros, fungos e bactérias. Ar mais puro e menor consumo elétrico.",
+      "fullDescription": "Ar-condicionado sujo faz mal à saúde e ao bolso! Nossa higienização profissional no local é feita com capa coletora impermeável para não sujar a parede ou o chão. Aplicamos bactericida hospitalar autorizado pela ANVISA, desobstruímos a turbina, a serpentina evaporadora e a bandeja de condensado, eliminando mau cheiro, ácaros e prevenindo crises respiratórias.",
+      "category": "Saúde e Manutenção",
+      "imageUrl": "/src/assets/images/ac_cleaning_service_1792728720837.jpg",
+      "priceType": "a_partir",
+      "priceValue": 180,
+      "priceObservation": "Preço promocional especial por tempo limitado para aparelhos residenciais.",
+      "includedFeatures": [
+        "Descontaminação com bactericida específico ANVISA",
+        "Lavagem completa da turbina e serpentina",
+        "Limpeza profunda da bandeja e dreno",
+        "Higienização dos filtros e carenagem externa",
+        "Mais saúde para a família e economia na conta de luz"
+      ],
+      "visible": true,
+      "order": 2,
+      "whatsappCustomMsg": "Olá! Vi a promoção de Limpeza e Higienização e quero agendar para o meu ar-condicionado."
+    },
+    {
+      "id": "srv-3",
+      "slug": "manutencao-preventiva-corretiva",
+      "title": "Manutenção Preventiva e Corretiva",
+      "shortDescription": "Diagnóstico rápido, recarga de gás ecológico, troca de capacitores e reparo de placas.",
+      "fullDescription": "Seu ar-condicionado não está gelando direito, faz barulho anormal ou pinga água para dentro? Realizamos diagnóstico eletrônico minucioso, teste de rendimento térmico do compressor, verificação de capacitores de partida, correção de vazamentos e recarga de fluido refrigerante (R410A, R32 ou R22) por balança de precisão.",
+      "category": "Climatização",
+      "imageUrl": "/src/assets/images/ac_outdoor_compressor_1792728720636.jpg",
+      "priceType": "sob_consulta",
+      "priceObservation": "Valor sob diagnóstico técnico no local. Agende uma visita rápida.",
+      "includedFeatures": [
+        "Detecção de vazamento e vedação",
+        "Recarga de gás refrigerante com balança digital",
+        "Substituição de peças desgastadas ou queimadas",
+        "Manutenção preventiva para empresas e escritórios"
+      ],
+      "visible": true,
+      "order": 3,
+      "whatsappCustomMsg": "Olá! Meu ar-condicionado precisa de Manutenção/Conserto. Podem me ajudar?"
+    },
+    {
+      "id": "srv-4",
+      "slug": "instalacao-eletrica-climatizacao",
+      "title": "Instalação Elétrica Dedicada",
+      "shortDescription": "Ponto elétrico independente, disjuntor exclusivo NBR 5410 e aterramento de proteção.",
+      "fullDescription": "Para o funcionamento seguro do seu ar-condicionado e proteção da sua fiação contra sobrecargas, realizamos a instalação de circuito elétrico exclusivo a partir do quadro de distribuição (QDC), com disjuntor bipolar ou unipolar dimensionado, condutores normatizados antichama e aterramento.",
+      "category": "Elétrica",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-14_at_18.43.04_87d42e79.jpeg",
+      "priceType": "sob_consulta",
+      "priceObservation": "Orçamento calculado de acordo com a distância do quadro de força e infraestrutura.",
+      "includedFeatures": [
+        "Disjuntores norma DIN de alta qualidade",
+        "Cabos flexíveis antichama certificados pelo Inmetro",
+        "Passagem por eletroduto ou canaleta de acabamento",
+        "Segurança contra curtos-circuitos e quedas de energia"
+      ],
+      "visible": true,
+      "order": 4,
+      "whatsappCustomMsg": "Olá! Preciso de orçamento para Ponto Elétrico / Elétrica do ar-condicionado."
+    },
+    {
+      "id": "srv-5",
+      "slug": "emissao-de-art",
+      "title": "Emissão de ART (Responsabilidade Técnica)",
+      "shortDescription": "Laudo de conformidade e ART para liberação de reformas em condomínios e edifícios.",
+      "fullDescription": "Edifícios residenciais e comerciais exigem a Anotação de Responsabilidade Técnica (ART) segundo a NBR 16280 para aprovação e início de obras de ar-condicionado. Emitimos a documentação oficial com recolhimento junto ao conselho regional com agilidade para liberação imediata junto ao síndico.",
+      "category": "Engenharia e Laudos",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-14_at_18.43.04_87d42e79.jpeg",
+      "priceType": "a_partir",
+      "priceValue": 200,
+      "priceObservation": "Valores para condomínios residenciais na Grande São Paulo.",
+      "includedFeatures": [
+        "Emissão rápida para autorização do condomínio",
+        "Termo de responsabilidade e vistoria técnica",
+        "Atendimento à norma ABNT NBR 16280"
+      ],
+      "visible": true,
+      "order": 5,
+      "whatsappCustomMsg": "Olá! Preciso de Emissão de ART para instalação de ar-condicionado no meu condomínio."
+    },
+    {
+      "id": "srv-6",
+      "slug": "tubulacao-de-gas-cobre",
+      "title": "Tubulação de Cobre e Linha Frigorígena",
+      "shortDescription": "Infraestrutura completa embutida ou aparente em tubos de cobre e isolamento térmico.",
+      "fullDescription": "Execução de pré-instalação e infraestrutura frigorígena em tubulações de cobre de alta espessura com isolamento térmico blindado em polietileno ou elastomérico. Ideal para imóveis na planta, reformas ou ampliações.",
+      "category": "Infraestrutura",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-14_at_18.43.04_87d42e79.jpeg",
+      "priceType": "sob_consulta",
+      "priceObservation": "Calculado por metro linear e capacidade do equipamento.",
+      "includedFeatures": [
+        "Cobre sem costura de primeira linha",
+        "Isolamento térmico blindado",
+        "Teste de pressão com nitrogênio"
+      ],
+      "visible": true,
+      "order": 6,
+      "whatsappCustomMsg": "Olá! Gostaria de um orçamento para Tubulação de Cobre / Infraestrutura."
+    },
+    {
+      "id": "srv-7",
+      "slug": "desinstalacao-e-reinstalacao",
+      "title": "Desinstalação e Reinstalação de Aparelhos",
+      "shortDescription": "Mudança de endereço ou reforma? Desinstalamos recolhendo o gás e reinstalamos no novo local.",
+      "fullDescription": "Procedimento seguro com fechamento de válvulas de serviço para preservação integral da carga de gás refrigerante no compressor, desconexão sem danificar conexões e transporte seguro para reinstalação em novo cômodo ou residência.",
+      "category": "Climatização",
+      "imageUrl": "/src/assets/images/ac_outdoor_compressor_1792728720636.jpg",
+      "priceType": "a_partir",
+      "priceValue": 220,
+      "priceObservation": "Consulte pacote conjunto com a nova instalação.",
+      "includedFeatures": [
+        "Recolhimento do gás no sistema",
+        "Desmontagem cuidadosa sem danos à parede",
+        "Pronto para reinstalação imediata"
+      ],
+      "visible": true,
+      "order": 7,
+      "whatsappCustomMsg": "Olá! Preciso desinstalar ou mudar meu ar-condicionado de lugar. Pode me orçar?"
+    },
+    {
+      "id": "srv-8",
+      "slug": "instalacao-coifa-aquecedor",
+      "title": "Instalação de Coifas e Aquecedores a Gás",
+      "shortDescription": "Serviços especializados de instalação de coifas de cozinha, dutos e aquecedores.",
+      "fullDescription": "Equipe multidisciplinar habilitada para instalação de coifas residenciais de parede e ilha, furação e acabamento em duto exterior, e instalação segura de aquecedores a gás com tubulação conforme normas de segurança.",
+      "category": "Construção e Instalações",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-14_at_18.43.04_87d42e79.jpeg",
+      "priceType": "sob_consulta",
+      "priceObservation": "Valor sujeito ao modelo do aparelho e estrutura do local.",
+      "includedFeatures": [
+        "Fixação e nivelamento milimétrico",
+        "Ligação de duto e exaustão",
+        "Teste funcional e de estanqueidade"
+      ],
+      "visible": true,
+      "order": 8,
+      "whatsappCustomMsg": "Olá! Gostaria de orçamento para instalação de coifa ou aquecedor a gás."
+    }
+  ],
+  "prices": [
+    {
+      "id": "prc-1",
+      "serviceName": "Limpeza e Higienização Completa (Promoção)",
+      "priceType": "a_partir",
+      "priceValue": 180,
+      "unit": "por aparelho",
+      "description": "Higienização química no local com bactericida hospitalar ANVISA, limpeza de turbina e serpentina.",
+      "observation": "Preço promocional válido para aparelhos Split Hi-Wall até 12.000 BTUs em São Paulo.",
+      "includedItems": [
+        "Desmontagem das partes frontais no local",
+        "Aplicação de bactericida biodegradável",
+        "Limpeza profunda da serpentina evaporadora",
+        "Lavagem sob pressão com bolsa coletora impermeável",
+        "Limpeza dos filtros de alta densidade"
+      ],
+      "notIncludedItems": [
+        "Carga de gás adicional (caso haja vazamento prévio)"
+      ],
+      "popular": true,
+      "order": 1,
+      "visible": true
+    },
+    {
+      "id": "prc-2",
+      "serviceName": "Instalação Padrão Split (9.000 a 12.000 BTUs)",
+      "priceType": "a_partir",
+      "priceValue": 380,
+      "unit": "por aparelho",
+      "description": "Instalação completa com teste de vácuo mecânico de alta precisão.",
+      "observation": "Valor de mão de obra para até 3 metros de tubulação aparente e ponto elétrico pronto.",
+      "includedItems": [
+        "Suporte de fixação externo e interno",
+        "Furo técnico para passagem da tubulação",
+        "Vácuo mecânico abaixo de 500 microns",
+        "Start-up técnico e medição de rendimento",
+        "Garantia técnica de 90 dias"
+      ],
+      "notIncludedItems": [
+        "Tubulação de cobre excedente (cobrada por metro)",
+        "Criação de ponto de força elétrica"
+      ],
+      "popular": true,
+      "order": 2,
+      "visible": true
+    },
+    {
+      "id": "prc-3",
+      "serviceName": "Instalação Split Inverter (18.000 a 24.000 BTUs)",
+      "priceType": "a_partir",
+      "priceValue": 490,
+      "unit": "por aparelho",
+      "description": "Mão de obra especializada para equipamentos de maior capacidade térmica.",
+      "observation": "Ideal para salas amplas, consultórios e espaços comerciais.",
+      "includedItems": [
+        "Fixação reforçada em suportes antivibratórios",
+        "Vácuo digital com vacuômetro homologado",
+        "Configuração de comandos e controle remoto",
+        "Garantia do serviço prestado"
+      ],
+      "notIncludedItems": [
+        "Alvenaria pesada ou rapel de fachada externa"
+      ],
+      "popular": false,
+      "order": 3,
+      "visible": true
+    },
+    {
+      "id": "prc-4",
+      "serviceName": "Desinstalação com Recolhimento de Gás",
+      "priceType": "a_partir",
+      "priceValue": 220,
+      "unit": "por ponto",
+      "description": "Retirada cuidadosa do equipamento preservando a carga de fluido refrigerante.",
+      "observation": "Desconto especial se a reinstalação for feita conosco.",
+      "includedItems": [
+        "Bombeamento e recolhimento de gás para a condensadora",
+        "Desconexão elétrica e das tubulações",
+        "Vedação dos pontos de cobre"
+      ],
+      "popular": false,
+      "order": 4,
+      "visible": true
+    },
+    {
+      "id": "prc-5",
+      "serviceName": "Emissão de Laudo Técnico & ART",
+      "priceType": "fixo",
+      "priceValue": 250,
+      "unit": "por ART emitida",
+      "description": "Documento oficial para condomínios e exigências prediais com recolhimento de taxa.",
+      "observation": "Atendimento às normas ABNT NBR 16280 e exigências de síndicos.",
+      "includedItems": [
+        "Vistoria e conferência do projeto",
+        "Emissão e assinatura de responsável técnico",
+        "Entrega rápida em arquivo digital"
+      ],
+      "popular": false,
+      "order": 5,
+      "visible": true
+    },
+    {
+      "id": "prc-6",
+      "serviceName": "Ponto Elétrico Dedicado para Ar-Condicionado",
+      "priceType": "sob_consulta",
+      "unit": "sob avaliação",
+      "description": "Execução de fiação e disjuntor exclusivo a partir do quadro geral.",
+      "observation": "Valor sujeito à distância entre o quadro de luz e a evaporadora/condensadora.",
+      "includedItems": [
+        "Disjuntor termomagnético adequado",
+        "Fiação antichama normatizada NBR 5410",
+        "Canaleta ou eletroduto para proteção estética"
+      ],
+      "popular": false,
+      "order": 6,
+      "visible": true
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Campanha de Instalação e Conforto Térmico",
+      "description": "Divulgação oficial Rocha Construção e Climatização com foco em qualidade e atendimento de excelência.",
+      "serviceType": "Instalação de Ar-Condicionado",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-18_at_14.10.07_b53ce399.jpeg",
+      "date": "Agosto 2026",
+      "location": "São Paulo - SP",
+      "order": 1,
+      "visible": true
+    },
+    {
+      "id": "gal-2",
+      "title": "Higienização e Eliminação de Alérgenos",
+      "description": "Campanha e trabalho de desinfecção com produtos autorizados ANVISA pela técnica especialista Yngrid.",
+      "serviceType": "Limpeza e Higienização",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-13_at_14.28.09_9541f24a.jpeg",
+      "date": "Agosto 2026",
+      "location": "São Paulo e Região",
+      "order": 2,
+      "visible": true
+    },
+    {
+      "id": "gal-3",
+      "title": "Serviços Especializados de Climatização & Elétrica",
+      "description": "Mostruário técnico de serviços: ar-condicionado, elétrica, ART, tubulação de gás, hidráulica e reformas.",
+      "serviceType": "Infraestrutura & Obras",
+      "imageUrl": "/assets/aistudio/WhatsApp_Image_2026-08-14_at_18.43.04_87d42e79.jpeg",
+      "date": "Agosto 2026",
+      "location": "São Paulo - SP",
+      "order": 3,
+      "visible": true
+    },
+    {
+      "id": "gal-4",
+      "title": "Instalação Residencial de Split Hi-Wall Inverter",
+      "description": "Ambiente residencial com acabamento impecável, dreno embutido e climatização uniforme.",
+      "serviceType": "Instalação de Ar-Condicionado",
+      "imageUrl": "/src/assets/images/hero_ac_split_living_1792728720151.jpg",
+      "date": "Outubro 2026",
+      "location": "Alphaville / Barueri",
+      "order": 4,
+      "visible": true
+    },
+    {
+      "id": "gal-5",
+      "title": "Higienização Profissional com Bolsa Coletora",
+      "description": "Procedimento técnico de lavagem da serpentina sem respingos ou sujeira no ambiente do cliente.",
+      "serviceType": "Limpeza e Higienização",
+      "imageUrl": "/src/assets/images/ac_cleaning_service_1792728720837.jpg",
+      "date": "Outubro 2026",
+      "location": "Pinheiros - São Paulo",
+      "order": 5,
+      "visible": true
+    },
+    {
+      "id": "gal-6",
+      "title": "Diagnóstico e Carga de Gás em Condensadora Externa",
+      "description": "Aferição de pressões e teste de ciclo frigorífico em unidade externa em sacada técnica.",
+      "serviceType": "Manutenção Preventiva",
+      "imageUrl": "/src/assets/images/ac_outdoor_compressor_1792728720636.jpg",
+      "date": "Outubro 2026",
+      "location": "Moema - São Paulo",
+      "order": 6,
+      "visible": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Carlos Mendes",
+      "neighborhood": "Vila Mariana, SP",
+      "serviceRendered": "Instalação de 2 Splits Inverter",
+      "rating": 5,
+      "comment": "Equipe nota 10! Chegaram no horário combinado, colocaram proteção no piso, fizeram a instalação super limpa e deixaram tudo funcionando perfeitamente. O orçamento foi cumprido à risca.",
+      "date": "15/09/2026",
+      "visible": true
+    },
+    {
+      "id": "test-2",
+      "name": "Patrícia Silveira",
+      "neighborhood": "Santo André, SP",
+      "serviceRendered": "Limpeza e Higienização de Ar",
+      "rating": 5,
+      "comment": "Meu ar estava com cheiro de mofo e fraco. A técnica Yngrid fez uma limpeza impecável! Não sujou nada do quarto e o ar voltou a gelar como novo e com cheiro super agradável. Recomendo muito!",
+      "date": "02/10/2026",
+      "visible": true
+    },
+    {
+      "id": "test-3",
+      "name": "Roberto Camargo",
+      "neighborhood": "Morumbi, SP",
+      "serviceRendered": "Instalação com Emissão de ART",
+      "rating": 5,
+      "comment": "Precisava de emissão rápida de ART para aprovar a obra no meu condomínio. O Rocha foi super prestativo, forneceu toda a documentação no mesmo dia e o síndico aprovou imediatamente.",
+      "date": "10/10/2026",
+      "visible": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Ar-Condicionado Split Hi-Wall 12.000 BTUs Inverter",
+      "category": "Split Hi-Wall",
+      "brand": "LG Dual Inverter / Midea",
+      "imageUrl": "/src/assets/images/ac_split_inverter_1792776578343.jpg",
+      "price": 2490,
+      "oldPrice": 2890,
+      "priceObservation": "Em até 10x sem juros no cartão ou com desconto especial no PIX",
+      "badge": "Mais Vendido",
+      "btus": "12.000 BTUs",
+      "voltage": "220V",
+      "cycle": "Frio / Quente e Frio",
+      "specifications": [
+        "Tecnologia Dual Inverter: até 70% de economia de energia",
+        "Serpentina 100% Cobre de alta durabilidade",
+        "Gás ecológico R-32 de alta eficiência térmica",
+        "Operação ultra silenciosa (apenas 19 dB no modo sono)",
+        "Filtro antibacteriano lavável de alta densidade",
+        "Opção de pacote com instalação Rocha e garantia total"
+      ],
+      "description": "Ideal para salas e quartos de 15m² a 20m². O compressor Inverter mantém a temperatura constante sem oscilações bruscas, reduzindo a conta de luz e proporcionando o conforto térmico ideal tanto no verão quanto no inverno.",
+      "inStock": true,
+      "visible": true,
+      "order": 1,
+      "whatsappCustomMsg": "Olá! Tenho interesse no Ar-Condicionado Split Hi-Wall 12.000 BTUs Inverter. Poderiam me passar a disponibilidade e opções de instalação?"
+    },
+    {
+      "id": "prod-2",
+      "name": "Multi Split Inverter 18.000 BTUs (2 Evaporadoras)",
+      "category": "Multi Split",
+      "brand": "Daikin / Carrier",
+      "imageUrl": "/src/assets/images/ac_multi_split_1792776578298.jpg",
+      "price": 5290,
+      "oldPrice": 5990,
+      "priceObservation": "Em até 10x sem juros • Instalação com ART disponível",
+      "badge": "Ideal p/ 2 Ambientes",
+      "btus": "18.000 BTUs (9k + 9k)",
+      "voltage": "220V",
+      "cycle": "Quente e Frio",
+      "specifications": [
+        "1 única unidade condensadora externa para 2 cômodos",
+        "Controle individual de temperatura para cada ambiente",
+        "Compressor Inverter com partida suave e silenciosa",
+        "Tubulação em cobre com isolamento elastomérico",
+        "Economiza espaço na fachada ou na varanda técnica",
+        "Garantia técnica Rocha Climatização"
+      ],
+      "description": "A solução perfeita para apartamentos e residências onde o espaço na fachada ou varanda técnica é limitado. Climatiza dois cômodos ao mesmo tempo com comandos e temperaturas independentes.",
+      "inStock": true,
+      "visible": true,
+      "order": 2,
+      "whatsappCustomMsg": "Olá! Gostaria de informações sobre o Multi Split Inverter 18.000 BTUs (2 Evaporadoras)."
+    },
+    {
+      "id": "prod-3",
+      "name": "Ar-Condicionado Cassete 4 Vias 24.000 a 36.000 BTUs",
+      "category": "Cassete Comercial / Residencial",
+      "brand": "Gree / Elgin / Midea",
+      "imageUrl": "/src/assets/images/ac_cassete_ceiling_1792776579142.jpg",
+      "price": 6890,
+      "oldPrice": 7650,
+      "priceObservation": "Faturamento para PJ ou parcelamento facilitado",
+      "badge": "Alto Padrão & Comercial",
+      "btus": "24.000 a 36.000 BTUs",
+      "voltage": "220V Bifásico / Trifásico",
+      "cycle": "Quente e Frio",
+      "specifications": [
+        "Distribuição de ar 360° em 4 vias para fluxo homogêneo",
+        "Embutido flush no gesso rebaixado: estética clean e sofisticada",
+        "Bomba de dreno de alta vazão integrada de fábrica",
+        "Painel com aletas independentes e direcionamento suave",
+        "Perfeito para escritórios, consultórios e salas amplas integradas"
+      ],
+      "description": "Design refinado e arquitetônico. O modelo Cassete fica perfeitamente alinhado ao teto de gesso, deixando as paredes totalmente livres e distribuindo o ar de forma homogênea em todo o espaço.",
+      "inStock": true,
+      "visible": true,
+      "order": 3,
+      "whatsappCustomMsg": "Olá! Gostaria de cotar o Ar-Condicionado Cassete 4 Vias para o meu espaço."
+    },
+    {
+      "id": "prod-4",
+      "name": "Ar-Condicionado Split 9.000 BTUs Inverter Frio",
+      "category": "Split Hi-Wall",
+      "brand": "Samsung / Gree / Midea",
+      "imageUrl": "/src/assets/images/hero_ac_split_living_1792728720151.jpg",
+      "price": 2190,
+      "oldPrice": 2490,
+      "priceObservation": "Super Econômico • Pronta Entrega SP e Região",
+      "badge": "Super Econômico",
+      "btus": "9.000 BTUs",
+      "voltage": "220V",
+      "cycle": "Frio",
+      "specifications": [
+        "Recomendado para quartos de até 12 a 15m²",
+        "Selo Procel A Ouro em eficiência energética",
+        "Função Turbo para resfriamento imediato",
+        "Filtro lavável que retém poeira e ácaros",
+        "Compatível com instalação rápida no mesmo dia"
+      ],
+      "description": "O tamanho ideal para quartos residenciais, home offices ou pequenos consultórios. Gela rápido e mantém o consumo de energia baixíssimo no final do mês.",
+      "inStock": true,
+      "visible": true,
+      "order": 4,
+      "whatsappCustomMsg": "Olá! Tenho interesse no Ar-Condicionado Split 9.000 BTUs. Vocês têm a pronta entrega?"
+    },
+    {
+      "id": "prod-5",
+      "name": "Kit Suporte Reforçado & Tubulação 100% Cobre",
+      "category": "Acessórios & Instalação",
+      "brand": "Rocha Climatização",
+      "imageUrl": "/src/assets/images/ac_outdoor_compressor_1792776578298.jpg",
+      "price": 320,
+      "oldPrice": 390,
+      "priceObservation": "Material homologado de primeira linha",
+      "badge": "Pronta Entrega",
+      "btus": "Compatível 9k a 24k BTUs",
+      "voltage": "Universal",
+      "cycle": "Universal",
+      "specifications": [
+        "Par de suportes em chapa de aço reforçada com pintura eletrostática",
+        "Tubos de cobre sem emendas e com espessura de parede normatizada",
+        "Isolamento térmico blindado contra condensação e perda de rendimento",
+        "Coxins de borracha anti-vibração para reduzir ruídos"
+      ],
+      "description": "Materiais de alta qualidade selecionados pelos técnicos da Rocha Climatização para garantir vida útil longa ao seu equipamento e prevenir vazamentos de gás.",
+      "inStock": true,
+      "visible": true,
+      "order": 5,
+      "whatsappCustomMsg": "Olá! Gostaria de consultar o Kit de Tubulação e Suporte da Rocha Climatização."
+    }
+  ],
+  "messages": [],
+  "chatConversations": []
+}
